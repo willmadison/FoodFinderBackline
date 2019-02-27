@@ -1,0 +1,5 @@
+---
+applications:
+  - name: food-finder-backline
+    memory: 1G
+    instances: 2
