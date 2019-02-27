@@ -3,3 +3,4 @@ applications:
   - name: food-finder-backline
     memory: 1G
     instances: 2
+    path: ./build/libs/food-finder-backline-0.0.1-SNAPSHOT.jar
